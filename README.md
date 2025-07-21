@@ -1,9 +1,4 @@
-~hello/konechiva/bonjour/prevert
-~ I am A840wCc 
-~a gaming YouTuber (developer secretly) 
-~learning java,Bash,c
-~in kinder garden
-~at katsukabae
+member of CSNV clan
 
 
 <!---
